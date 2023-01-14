@@ -1,2 +1,1 @@
-# bahamas_brahminy_blindsnake_2021
-PDF download for DeVos and Giery (2021) paper reporting the establishment of the non-native brahminy blindsnake (_Indotyphlops braminus_) on Abaco Island in the Bahamas.
+Citation: DeVos, T.B. and S.T. Giery. 2021. Establishment of the introduced brahminy blindsnake (_Indotyphlops braminus_) on Abaco Island, The Bahamas, with notes on potential niche overlap with the native Cuban brown blindsnake (_Typhlops lumbricalis_). Reptiles & Amphibians 28(3):555-557.
